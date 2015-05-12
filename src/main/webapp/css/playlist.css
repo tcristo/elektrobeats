@@ -5,6 +5,10 @@ table.trackList td.trackLength {
     vertical-align: top !important;
     width: 80px;
 }
+table.trackList  {
+    width: 100%;
+}
+
 table.trackList th, table.trackList td {
     font-size: 13px;
     padding-bottom: 5px;

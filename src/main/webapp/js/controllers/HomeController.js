@@ -8,6 +8,19 @@ app.controller('HomeController', ['$scope', function($scope) {
         },
         {
             year : 2014
+        },
+        {
+            year : 2013
+        },
+        {
+            year : 2012
+        },
+        {
+            year : 2011
+        },
+        {
+            year : 2010
         }
+
     ]
 }]);

@@ -1,7 +1,9 @@
-<div class="photo">
+<div class="main">
     <div class="container">
-        <h2>Elektrobeats vom {{date}}</h2>
-        <audio controls ng-src="{{audioUrl}}"></audio>
-        <div ng-bind-html="playlist"></div>
+        <div class="row">
+            <h2>Elektrobeats vom {{date}}</h2>
+            <audio controls ng-src="{{audioUrl}}"></audio>
+            <div ng-bind-html="playlist"></div>
+        </div>
     </div>
 </div>
