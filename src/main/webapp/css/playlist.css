@@ -1,0 +1,15 @@
+table.trackList tr.even td {
+    background-color: #e6e6e4;
+}
+table.trackList td.trackLength {
+    vertical-align: top !important;
+    width: 80px;
+}
+table.trackList th, table.trackList td {
+    font-size: 13px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-top: 10px;
+    text-align: left;
+    vertical-align: top;
+}
